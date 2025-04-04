@@ -1,5 +1,6 @@
 {
     "conventionalCommits.scopes": [
-        "create main"
+        "create main",
+        "ApiPruebas"
     ]
 }
