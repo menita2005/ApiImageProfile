@@ -1,6 +1,7 @@
 {
     "conventionalCommits.scopes": [
         "create main",
-        "ApiPruebas"
+        "ApiPruebas",
+        "Creacion de modelo y conexion a db"
     ]
 }
